@@ -1,0 +1,15 @@
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/bin/Debug/net5.0/SPS.deps.json
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/bin/Debug/net5.0/SPS.runtimeconfig.json
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/bin/Debug/net5.0/SPS.runtimeconfig.dev.json
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/bin/Debug/net5.0/SPS.dll
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/bin/Debug/net5.0/ref/SPS.dll
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/bin/Debug/net5.0/SPS.pdb
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.csprojAssemblyReference.cache
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.AssemblyInfoInputs.cache
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.AssemblyInfo.cs
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.csproj.CoreCompileInputs.cache
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.dll
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/ref/SPS.dll
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.pdb
+/Users/igornadenenko/Desktop/ITransition/Task3/SPS/obj/Debug/net5.0/SPS.genruntimeconfig.cache
